@@ -2,6 +2,5 @@
 
 - 🌱 I’m currently learning Data Structures
 - 💬 Ask me about cybersecurity and related concepts!
-- 😄 Pronouns: He/Him
 
 
